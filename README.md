@@ -22,14 +22,16 @@ I have created tlg0012.tlg001.perseus-eng4.pope-alignments:1.1-1.4.py as an exam
 
 ```python
 alignments = {
-    "1.1–1.4": {
-        "butler": """Sing, O goddess, the anger [<term xml:lang="grc">mênis</term>] of Achilles son of Peleus, that brought countless ills upon the Achaeans. Many a brave soul [<term xml:lang="grc">psukhê</term>] did it send hurrying down to Hades, and many a hero did it yield a prey to dogs.""",
-        "pope": """Achilles’ wrath, to Greece the direful spring
-Of woes unnumber’d, heavenly goddess, sing!
-That wrath which hurl’d to Pluto’s gloomy reign
-The souls of mighty chiefs untimely slain;
-Whose limbs unburied on the naked shore,
-Devouring dogs and hungry vultures tore."""
+    "1.90–1.94": {
+        "butler": """no, not though you name Agamemnon himself, who
+                     is by far the foremost of the Achaeans." Thereon the seer [<term xml:lang="grc"
+                        >mantis</term>] spoke boldly. "The god," he said, "is angry neither about
+                     vow nor hecatomb, but for his priest's sake, whom Agamemnon has dishonored,""",
+        "pope": """Whence rose these woes, and whence this dire debate?
+                     From Jove and Thetis sprang the stern decree,
+                     That urged Achilles’ wrath and doomed to fate
+                     The chiefs untimely, in the martial fray.
+                     For priest despised, and ransom cast away."""
     }
 }
 ```
